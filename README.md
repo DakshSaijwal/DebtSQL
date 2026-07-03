@@ -4,7 +4,7 @@ A SQL-based exploratory analysis of the World Bank's international debt dataset,
 
 ## About
 
-Countries, like individuals, take on debt to manage their economies — funding things like infrastructure so citizens can lead comfortable lives. The World Bank is one of the organizations that provides this kind of debt financing.
+Countries, like individuals, take on debt to manage their economies, funding things like infrastructure so citizens can lead comfortable lives. The World Bank is one of the organizations that provides this kind of debt financing.
 
 This notebook analyzes the World Bank's international debt data, which records the amount of debt (in USD) owed by developing countries across a range of debt categories ("indicators"). Using SQL queries run inline in the notebook, it works through questions such as:
 
